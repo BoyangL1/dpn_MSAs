@@ -1,0 +1,27 @@
+{
+  "status": "computed",
+  "cohort_msas": 323,
+  "complete_case_msas": 291,
+  "excluded_incomplete_msas": 32,
+  "non_subcritical_msas": 0,
+  "missing_clusters": [],
+  "n_per_regime": {
+    "1": 34,
+    "2": 20,
+    "3": 33,
+    "4": 34,
+    "5": 31,
+    "6": 22,
+    "7": 27,
+    "8": 90
+  },
+  "T_obs": 6.384180996093367,
+  "n_permutations": 5000,
+  "permutation_seed": 20260923,
+  "p_perm": 0.0001999600079984003,
+  "null_mean": 0.6610258058382564,
+  "null_q95": 1.0251007276822672,
+  "independent_grouped_recalculation_max_error": 1.1102230246251565e-16,
+  "max_row_centering_error": 5.551115123125783e-17,
+  "max_column_centering_error": 6.453409780596056e-16
+}

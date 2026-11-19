@@ -1,0 +1,2 @@
+n_msa,n_msa_input,median_beta,median_beta_fit_r2,regression_slope,regression_intercept,pearson_r,regression_r2,bootstrap_replicates,seed,font_family,pearson_p_two_sided
+376,376,-1.1670581565452904,0.9872282911056224,-0.4018816725557172,0.0917173249748323,-0.7495684731149574,0.5618528958878894,2000,12345,Arial,5.277598420672309e-69

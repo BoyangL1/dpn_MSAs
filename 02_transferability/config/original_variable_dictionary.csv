@@ -1,0 +1,44 @@
+block,component,term,label,pair_transform,source
+Distance & Size,Distance & Size,log_N_diff,log_N_diff,unchanged saved transfer-pair predictor,External metropolitan pair predictors
+Distance & Size,Distance & Size,log_geo_dist,log_geo_dist,unchanged saved transfer-pair predictor,External metropolitan pair predictors
+Socioeconomic,Socioeconomic,diff_acs_population,Population,unchanged saved transfer-pair predictor,External metropolitan pair predictors
+Socioeconomic,Socioeconomic,diff_acs_households,Households,unchanged saved transfer-pair predictor,External metropolitan pair predictors
+Socioeconomic,Socioeconomic,diff_acs_median_household_income,Median household income,unchanged saved transfer-pair predictor,External metropolitan pair predictors
+Socioeconomic,Socioeconomic,diff_acs_per_capita_income,Per-capita income,unchanged saved transfer-pair predictor,External metropolitan pair predictors
+Socioeconomic,Socioeconomic,diff_acs_median_home_value,Median home value,unchanged saved transfer-pair predictor,External metropolitan pair predictors
+Socioeconomic,Socioeconomic,diff_acs_unemployment_rate,Unemployment rate,unchanged saved transfer-pair predictor,External metropolitan pair predictors
+Socioeconomic,Socioeconomic,diff_acs_car_commute_share,Car commute share,unchanged saved transfer-pair predictor,External metropolitan pair predictors
+Socioeconomic,Socioeconomic,diff_acs_public_transit_share,Public-transit commute share,unchanged saved transfer-pair predictor,External metropolitan pair predictors
+Socioeconomic,Socioeconomic,diff_acs_no_vehicle_share,Households without a vehicle,unchanged saved transfer-pair predictor,External metropolitan pair predictors
+Socioeconomic,Socioeconomic,diff_acs_renter_share,Renter share,unchanged saved transfer-pair predictor,External metropolitan pair predictors
+Socioeconomic,Socioeconomic,diff_acs_bachelor_plus_share,Bachelor degree or higher,unchanged saved transfer-pair predictor,External metropolitan pair predictors
+Socioeconomic,Socioeconomic,diff_acs_young_adult_share_18_34,Population aged 18–34,unchanged saved transfer-pair predictor,External metropolitan pair predictors
+Socioeconomic,Socioeconomic,diff_acs_senior_share_65plus,Population aged 65+,unchanged saved transfer-pair predictor,External metropolitan pair predictors
+Socioeconomic,Socioeconomic,diff_acs_white_share,White share,unchanged saved transfer-pair predictor,External metropolitan pair predictors
+Socioeconomic,Socioeconomic,diff_acs_black_share,Black share,unchanged saved transfer-pair predictor,External metropolitan pair predictors
+Socioeconomic,Socioeconomic,diff_acs_asian_share,Asian share,unchanged saved transfer-pair predictor,External metropolitan pair predictors
+Socioeconomic,Socioeconomic,diff_acs_hispanic_share,Hispanic share,unchanged saved transfer-pair predictor,External metropolitan pair predictors
+Urban structure & function,Network structure,diff_net_modularity,Louvain modularity,absolute difference of MSA z-scores (ddof=0),External metropolitan feature table
+Urban structure & function,Network structure,diff_net_transitivity,Triangle closure,absolute difference of MSA z-scores (ddof=0),External metropolitan feature table
+Urban structure & function,Network structure,diff_net_giant_component_share,Giant-component share,absolute difference of MSA z-scores (ddof=0),External metropolitan feature table
+Urban structure & function,Network structure,diff_net_pagerank_gini,PageRank Gini,absolute difference of MSA z-scores (ddof=0),External metropolitan feature table
+Urban structure & function,Network structure,diff_top1_share_visits,Top 1% visit share,absolute difference of MSA z-scores (ddof=0),External metropolitan feature table
+Urban structure & function,Network structure,diff_incoming_strength_gini,Incoming-strength Gini,absolute difference of MSA z-scores (ddof=0),External metropolitan feature table
+Urban structure & function,Network structure,diff_edge_weight_gini,Edge-weight Gini,absolute difference of MSA z-scores (ddof=0),External metropolitan feature table
+Urban structure & function,Network structure,diff_w_row_sum_mean,Mean dependency strength,absolute difference of MSA z-scores (ddof=0),External metropolitan feature table
+Urban structure & function,Network structure,diff_log_top1_pair_distance,Top-1% spatial separation · log,absolute difference of MSA z-scores (ddof=0),External metropolitan feature table
+Urban structure & function,POI composition,diff_scn_Grocery___convenience_stores,Grocery & convenience stores,absolute difference of original scenario POI shares,External metropolitan feature table
+Urban structure & function,POI composition,diff_scn_Gas_stations,Gas stations,absolute difference of original scenario POI shares,External metropolitan feature table
+Urban structure & function,POI composition,diff_scn_Transit__bus___taxi_services,"Transit, bus & taxi services",absolute difference of original scenario POI shares,External metropolitan feature table
+Urban structure & function,POI composition,diff_scn_Shopping_malls___centers,Shopping malls & centers,absolute difference of original scenario POI shares,External metropolitan feature table
+Urban structure & function,POI composition,diff_scn_Schools___colleges,Schools & colleges,absolute difference of original scenario POI shares,External metropolitan feature table
+Urban structure & function,POI composition,diff_scn_Parks___nature_areas,Parks & nature areas,absolute difference of original scenario POI shares,External metropolitan feature table
+Urban structure & function,POI composition,diff_scn_Gyms___recreation_centers,Gyms & recreation centers,absolute difference of original scenario POI shares,External metropolitan feature table
+Urban structure & function,POI composition,diff_scn_Hotels___motels,Hotels & motels,absolute difference of original scenario POI shares,External metropolitan feature table
+Urban structure & function,POI composition,diff_scn_Restaurants___bars,Restaurants & bars,absolute difference of original scenario POI shares,External metropolitan feature table
+Urban structure & function,Urban form,diff_uf_poi_density,POI density · log,unchanged saved transfer-pair predictor,External metropolitan pair predictors
+Urban structure & function,Urban form,diff_uf_poi_entropy,POI functional diversity,unchanged saved transfer-pair predictor,External metropolitan pair predictors
+Urban structure & function,Urban form,diff_uf_poly_K,Spatial center count · log,unchanged saved transfer-pair predictor,External metropolitan pair predictors
+Urban structure & function,Urban form,diff_uf_poly_D,Largest-center dominance,unchanged saved transfer-pair predictor,External metropolitan pair predictors
+Urban structure & function,Urban form,diff_rd_intersection_density,Intersection density,unchanged saved transfer-pair predictor,External metropolitan pair predictors
+Urban structure & function,Urban form,diff_rd_orientation_entropy,Street-orientation entropy,unchanged saved transfer-pair predictor,External metropolitan pair predictors

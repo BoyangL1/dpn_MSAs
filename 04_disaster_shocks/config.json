@@ -1,0 +1,21 @@
+{
+  "base_msa_count": 376,
+  "hazard_coverage": {
+    "cohort_file": "hazard_coverage_cohort.csv",
+    "study_msa_count": 323,
+    "excluded_msa_count": 53
+  },
+  "hazards": {
+    "IFLD": "Inland flooding",
+    "HRCN": "Hurricane",
+    "ERQK": "Earthquake",
+    "WFIR": "Wildfire",
+    "TRND": "Tornado"
+  },
+  "beta": 0.45,
+  "orientation": "W",
+  "shock_value": -1.0,
+  "national_percentile_threshold": 0.99,
+  "within_msa_tract_fraction": 0.1,
+  "random_draws": 100
+}

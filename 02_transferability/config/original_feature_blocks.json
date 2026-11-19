@@ -1,0 +1,51 @@
+{
+  "Distance & Size": [
+    "log_N_diff",
+    "log_geo_dist"
+  ],
+  "Socioeconomic": [
+    "diff_acs_population",
+    "diff_acs_households",
+    "diff_acs_median_household_income",
+    "diff_acs_per_capita_income",
+    "diff_acs_median_home_value",
+    "diff_acs_unemployment_rate",
+    "diff_acs_car_commute_share",
+    "diff_acs_public_transit_share",
+    "diff_acs_no_vehicle_share",
+    "diff_acs_renter_share",
+    "diff_acs_bachelor_plus_share",
+    "diff_acs_young_adult_share_18_34",
+    "diff_acs_senior_share_65plus",
+    "diff_acs_white_share",
+    "diff_acs_black_share",
+    "diff_acs_asian_share",
+    "diff_acs_hispanic_share"
+  ],
+  "Urban structure & function": [
+    "diff_net_modularity",
+    "diff_net_transitivity",
+    "diff_net_giant_component_share",
+    "diff_net_pagerank_gini",
+    "diff_top1_share_visits",
+    "diff_incoming_strength_gini",
+    "diff_edge_weight_gini",
+    "diff_w_row_sum_mean",
+    "diff_log_top1_pair_distance",
+    "diff_scn_Grocery___convenience_stores",
+    "diff_scn_Gas_stations",
+    "diff_scn_Transit__bus___taxi_services",
+    "diff_scn_Shopping_malls___centers",
+    "diff_scn_Schools___colleges",
+    "diff_scn_Parks___nature_areas",
+    "diff_scn_Gyms___recreation_centers",
+    "diff_scn_Hotels___motels",
+    "diff_scn_Restaurants___bars",
+    "diff_uf_poi_density",
+    "diff_uf_poi_entropy",
+    "diff_uf_poly_K",
+    "diff_uf_poly_D",
+    "diff_rd_intersection_density",
+    "diff_rd_orientation_entropy"
+  ]
+}
